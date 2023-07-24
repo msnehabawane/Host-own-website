@@ -1,4 +1,4 @@
-# DevOps_project 1
+# Host our own Website
 DevOps project to learn how to setup webserver and host website on ec2 
 
 This repository contains the code for my DevOps project, which is a simple website built using HTML and deployed on an EC2 instance with Apache web server.
@@ -13,7 +13,7 @@ To run this website locally, you can simply clone this repository to your local 
 
 bash
 Copy code
-git clone https://github.com/your-username/devops-project.git
+git clone https://github.com/your-username/Host-own-website.git
 Usage
 Once you have cloned the repository, you can open the index.html file in your web browser to view the website.
 
