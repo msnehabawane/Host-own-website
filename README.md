@@ -13,7 +13,7 @@ To run this website locally, you can simply clone this repository to your local 
 
 bash
 Copy code
-git clone https://github.com/your-username/Host-own-website.git
+git clone https://github.com/msnehabawane/Host-own-website.git
 Usage
 Once you have cloned the repository, you can open the index.html file in your web browser to view the website.
 
